@@ -61,7 +61,7 @@ This badge is earned for completing the fourth Foundations learning lab badge re
 
 ![](badges/textmining/TM_Primary_Hx.png){width="145px"}
 
-The primary Text Mining badge is earned by completing the capstone project which covers the skills covered in the following 4 learning labs.
+The primary Text Mining badge is earned by completing the capstone project which covers the skills gained in the following 4 learning labs.
 
 ### 1. Text Mining Basics
 
@@ -90,6 +90,8 @@ This badge is earned for completing the fourth Text Mining learning lab badge re
 ## Social Network Analysis
 
 ![](badges/socialnetworkanalysis/SNA_Primary_Hx.png){width="145px"}
+
+The primary Social Network Analysis badge is earned by completing the capstone project which covers the skills gained in the following 4 learning labs.
 
 ### 1. Introduction to Social Network Analysis
 
