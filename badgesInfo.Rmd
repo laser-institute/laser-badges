@@ -1,0 +1,114 @@
+---
+title: "LASER Institute Badges"
+author: "LASER Institute Team"
+date: '`r Sys.Date()`'
+output: 
+    rmdformats::readthedown:
+      self_contained: true
+      lightbox: true
+      gallery: false
+      highlight: default
+      code_folding: hide
+      code_download: true
+      embed_fonts: true
+      use_bookdown: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+# LASER Badges
+
+## Orientation
+
+![](badges/orientation/LASER_Hx.png){width="145px"}
+
+### Reproducible Research
+
+![](badges/foundations/FLA_ReproducibleResearch_Hx.png){width="145px"}
+
+## Foundational Skills
+
+![](badges/foundations/FLA_Primary_Hx.png){width="145px"}
+
+### 1. Data Sources in Learning Analytics
+
+![](badges/foundations/FLA_DataSourcesLA_Hx.png){width="145px"}
+
+### 2. The Learning Analytics Workflow
+
+![](badges/foundations/FLA_LAWorkflow_Hx.png){width="145px"}
+
+
+### 3. Data Visualization
+
+![](badges/dataviz/DV_Basics_Hx.png){width="145px"}
+
+### 4. Data Products
+
+![](badges/foundations/FLA_DataProducts_Hx.png){width="145px"}
+
+
+## Text Mining
+
+![](badges/textmining/TM_Primary_Hx.png){width="145px"}
+
+### 1. Text Mining Basics
+
+![](badges/textmining/TM_TextMiningBasics_Hx.png){width="145px"}
+
+### 2. Dictionary Methods
+
+![](badges/textmining/TM_DictionaryMethods_Hx.png){width="145px"}
+
+### 3. Topic Modeling
+
+![](badges/textmining/TM_TopicModeling_Hx.png){width="145px"}
+
+### 4. Text Classification
+
+![](badges/textmining/TM_TextClassification_Hx.png){width="145px"}
+
+## Social Network Analysis
+
+![](badges/socialnetworkanalysis/SNA_Primary_Hx.png){width="145px"}
+
+### 1. Introduction to Social Network Analysis
+
+![](badges/socialnetworkanalysis/SNA_Intro_Hx.png){width="145px"}
+
+### 2. Network Measurement
+
+![](badges/socialnetworkanalysis/SNA_NetworkM_Hx.png){width="145px"}
+
+### 3. Group & Egos
+
+![](badges/socialnetworkanalysis/SNA_GroupEgos_Hx.png){width="145px"}
+
+### 4. Models & Inference
+
+![](badges/socialnetworkanalysis/SNA_ModelsInf_Hx.png){width="145px"}
+
+## Machine Learning
+
+![](badges/machinelearning/ML_Primary_Hx.png){width="145px"}
+
+### 1. Prediction
+
+![](badges/machinelearning/ML_Prediction_Hx.png){width="145px"}
+
+### 2. Feature Engineering
+
+![](badges/machinelearning/ML_FeatureEngineering_Hx.png){width="145px"}
+
+### 3. Model Tuning
+
+![](badges/machinelearning/ML_ModelTuning_Hx.png){width="145px"}
+
+### 4. Unsupervised Methods
+
+![](badges/machinelearning/ML_UnsupMethods_B_Hx.png){width="145px"}
+
+# Scholar Accountability
