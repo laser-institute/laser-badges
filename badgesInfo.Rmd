@@ -25,6 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](badges/orientation/LASER_Hx.png){width="145px"}
 
+This badge is earned for completing the LASER orientation learning lab covering the concepts of open science and reproducible research for application to learning analytics using R, R Studio, and GitHub Desktop.
 
 ## Foundational Skills
 
