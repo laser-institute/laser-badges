@@ -21,6 +21,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # LASER Badges
 
+The LASER Institute Badges are stickers earned for completing the independent analyses and capstone projects associated with the learning labs for each topic area covered in the summer workshop. The descriptions below provide a brief overview of the conceptual knowledge and skills demonstrated when earning each badge.
+
 ## Orientation
 
 ![](badges/orientation/LASER_Hx.png){width="145px"}
@@ -31,6 +33,7 @@ This badge is earned for completing the LASER orientation learning lab badge req
 
 ![](badges/foundations/FLA_Primary_Hx.png){width="145px"}
 
+The primary Foundational Skills badge is earned by completing the capstone project which covers the skills gained in the following 4 learning labs.
 
 ### 1. Data Sources in Learning Analytics
 
@@ -97,36 +100,52 @@ The primary Social Network Analysis badge is earned by completing the capstone p
 
 ![](badges/socialnetworkanalysis/SNA_Intro_Hx.png){width="145px"}
 
+This badge is earned for completing the first Social Network Analysis learning lab which shows a general understanding of key SNA concepts and terminology, as well as a basic comfort level with representing networks visually.
+
 ### 2. Network Measurement
 
 ![](badges/socialnetworkanalysis/SNA_NetworkM_Hx.png){width="145px"}
+
+This badge is earned for completing the second Social Network Analysis learning lab which shows skills developed in the collection, management, and measurement of network data.
 
 ### 3. Group & Egos
 
 ![](badges/socialnetworkanalysis/SNA_GroupEgos_Hx.png){width="145px"}
 
+This badge is earned for completing the third Social Network Analysis learning lab which shows the ability to employ the methods and measures for analyzing groups, positions, and individual actors.
+
 ### 4. Models & Inference
 
 ![](badges/socialnetworkanalysis/SNA_ModelsInf_Hx.png){width="145px"}
+
+This badge is earned for completing the fourth Social Network Analysis learning lab which shows the development of the ability to make predictions from social network data and test hypotheses about a network of interest.
 
 ## Machine Learning
 
 ![](badges/machinelearning/ML_Primary_Hx.png){width="145px"}
 
+The primary Machine Learning badge is earned by completing the capstone project which covers applying the skills from the four machine learning labs via an independent analysis of a self-identified data source.
+
 ### 1. Prediction
 
 ![](badges/machinelearning/ML_Prediction_Hx.png){width="145px"}
+
+This badge is earned for completing the first Machine Learning learning lab which shows that scholars can apply supervised machine learning to automate or scale up the relationships between predictor (independent) and outcome (dependent) variables.
 
 ### 2. Feature Engineering
 
 ![](badges/machinelearning/ML_FeatureEngineering_Hx.png){width="145px"}
 
+This badge is earned for completing the second Machine Learning learning lab which shows the ability to engineer and include features in a model and examine the models' predictive performance using cross-validation.
+
 ### 3. Model Tuning
 
 ![](badges/machinelearning/ML_ModelTuning_Hx.png){width="145px"}
+
+This badge is earned for completing the third Machine Learning learning lab which shows skills necessary to specify tuning parameters and choosing between simple or complex models for prediction.
 
 ### 4. Unsupervised Methods
 
 ![](badges/machinelearning/ML_UnsupMethods_B_Hx.png){width="145px"}
 
-# Scholar Accountability
+This badge is earned for completing the fourth Machine Learning learning lab which shows the ability to employ unsupervised machine learning methods such as latent profile analysis as a way of estimating groups on the basis of a set of predictor variables.
